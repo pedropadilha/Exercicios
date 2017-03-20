@@ -1,0 +1,29 @@
+
+
+1.  Crie um programa em Java que solicite o nome e a idade do usuário.
+    O programa deve perguntar ao usuário se ele já fez niversário no ano atual e partindo da
+    informação recebida exibir um texto que diga "Olá [nome]. Você tem [idade] anos e você nasceu em [ano]"
+
+
+
+2.  Elaborar um pequeno "jogo", que exiba operações matemáticas e que deve ler as respostas do usuário.
+    Criar um sistema de pontuação que a cada acerto incrementa em dois pontos o contador, e que a cada erro decrementa
+    em 1 ponto o contador. Em todas as etapas exibir todas as informações (pontuação, acertos e erros)
+    O programa pode ter todos os tipos de operação simples (adição, subtração, multiplicação e divisão), bem como
+    operações mais complexas (como potenciação e radiciação). 10 operações devem ser respondidas. Ao final do programa,
+    exibir todos os dados do jogo novamente e dizer se o jogador ganhou baseado no número de pontos - 12 pontos ou 
+
+
+____________________________________________________________________________________________________________________
+
+
+
+1.  Exibir mensagens que pedem dados do usuário, como nome, sobrenome, data de data de nascimento e cidade de nascimento. À partir dos dados obtidos, construir uma frase que exiba todos os dados coletados.
+
+2.  Ler dois números do usuário e exibir os resultados das operações de adição, subtração, multiplicação e divisão.
+
+
+
+
+
+
