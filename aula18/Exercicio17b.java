@@ -21,7 +21,7 @@ public class Exercicio17b {
             precos[i] = preco * quantidade;
         }
         
-        for (int i = 0; i < precos.length; i++) {
+        for (int i = 0; i < produtos; i++) {
             System.out.println("Valor total da compra do produto " + (i + 1) + ": " + precos[i]);
         }
     }
