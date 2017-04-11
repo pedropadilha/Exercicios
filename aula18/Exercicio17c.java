@@ -10,7 +10,7 @@ public class Exercicio17c {
         s.nextLine();
         String[] boletins = new String[totalBoletins];
         
-        for(int i = 0; i < boletins.length; i++) {
+        for(int i = 0; i < totalBoletins; i++) {
             System.out.print("Digite o nome do aluno" + (i + 1) + ": ");
             String nome = s.nextLine();
             System.out.print("Digite a nota 1 do aluno " + nome + ": ");
@@ -22,8 +22,8 @@ public class Exercicio17c {
             double media = ((nota1 + nota2) / 2);
             boletins[i] = (i + 1) + ". " + nome + ". Média " + media + ". " + (media >= 5 ? "A" : "RE") + "PROVADO";
         }
-        for (String boletim : boletins) {
-            System.out.println(boletim);
+        for (int i = 0; i < totalBoletins; i++) {
+            System.out.println(boletins[i]);
         }
         
     }
